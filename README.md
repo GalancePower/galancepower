@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Get for more than 10 shares.
+Get for more than 20 shares.
 
 <!--
 **GalancePower/galancepower** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
